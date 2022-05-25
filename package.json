@@ -4,12 +4,20 @@
   "description": "Dark theme for VS code",
   "publisher": "Draco",
   "version": "0.0.1",
+  "license": "MIT",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.67.0"
   },
-  "repository": "",
+  "repository": "https://github.com/PR7JW7L/vsc-draco-dark",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "color"
   ],
   "contributes": {
     "themes": [

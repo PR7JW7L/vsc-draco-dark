@@ -1,6 +1,6 @@
 # Draco dark VS Code theme
 
-![Demo](/draco-dark.png)
+![Demo](./draco-dark.png)
 
 ## Install
 
