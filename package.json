@@ -1,0 +1,23 @@
+{
+  "name": "draco-dark",
+  "displayName": "Draco Dark",
+  "description": "Dark theme for VS code",
+  "publisher": "Draco",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "repository": "",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Draco-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Draco-dark-color-theme.json"
+      }
+    ]
+  }
+}
